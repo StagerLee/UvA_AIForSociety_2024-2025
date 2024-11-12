@@ -1,15 +1,15 @@
 # UvA AI for Society
 
-This repository contains the code, lectures and assignmennts for the course: *AI for Society* 2023/2024. 
+This repository contains the code, lectures and assignmennts for the course: *AI for Society* 2024/2025. 
 
 ## Weekly Topics and Assignments
 
 | Week         | Topic           | Assignment  |
 | ------------- |-------------| -----:|
-| 1      | Fairness and Bias | [link](https://github.com/StagerLee/UvA_AIForSociety_2023/blob/main/Week_1/Assignment/Machine%20Bias.ipynb) |
-| 2      | Human-AI Interaction | [link](https://github.com/StagerLee/UvA_AIForSociety_2023/tree/main/Week_2/assignment) |
-| 3      | AI & Social Media | [link](https://github.com/StagerLee/UvA_AIForSociety_2023/blob/main/Week_3/AI4S_assignment3_imaginaries_AI.ipynb) |
-| 4      | AI for Cultural Analysis | Essay (canvas) |
+| 1      | Human-AI Interaction |  |
+| 2      | Societal Perspectives on AI |  |
+| 3      | AI & Social Media Platforms |  |
+| 4      | Research in the Field of AI in Society |  |
 
 
 
