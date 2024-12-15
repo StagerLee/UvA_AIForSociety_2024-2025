@@ -6,9 +6,9 @@ This repository contains the code, lectures and assignmennts for the course: *AI
 
 | Week         | Topic           | Assignment  |
 | ------------- |-------------| -----:|
-| 1      | Human-AI Interaction | Week_1_Assignment |
+| 1      | Human-AI Interaction | Week_1_2_Assignment |
 | 2      | Societal Perspectives on AI | -- |
-| 3      | AI & Social Media Platforms | Week_3_Assignment |
+| 3      | AI & Social Media Platforms | Week_2_3_Assignment |
 | 4      | Research in the Field of AI in Society | Essay (Canvas) |
 
 
